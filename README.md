@@ -1,8 +1,19 @@
 <div align="center">
-<h1 align="center"><a href="agregar portfolio" target="_blank">Valentino Gasipi</a>, Frontend Developer</h1>
+<h1 align="center"><a href="#" target="_blank">Valentino Gasipi</a>, Frontend Developer</h1>
 </div>
 
-### 👨 Social
+### 🙋🏼 About Me
+<ul>
+  <li>&nbsp;&nbsp;&nbsp;💻 Web Developer</li>
+  <li>&nbsp;&nbsp;&nbsp;👨🏼‍🎨 Web Designer</li>
+  <li>&nbsp;&nbsp;&nbsp;📱 UX/UI Designer</li>
+</ul
+<div>
+  <p><b>2 years of experience designing and developing websites while continuously learning new technologies.</b></p>
+  <p>I focus on providing modern, responsive (mobile-first) designs. I also have knowledge in IoT (Internet of Things), Digital Marketing, Servers, and Data Analysis.</p>  
+</div>
+
+### 👨🏼 Social
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/valentino-gasipi-470100252/)
 [![Bento Badge](https://img.shields.io/badge/Bento-FF6666?logo=bento&logoColor=fff&style=for-the-badge)](https://bento.me/valen-gasipi)
 
