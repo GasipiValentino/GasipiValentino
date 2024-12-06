@@ -7,15 +7,18 @@
   <li>&nbsp;&nbsp;&nbsp;💻 Web Developer</li>
   <li>&nbsp;&nbsp;&nbsp;👨🏼‍🎨 Web Designer</li>
   <li>&nbsp;&nbsp;&nbsp;📱 UX/UI Designer</li>
-</ul
+</ul>
 <div>
-  <p><b>2 years of experience designing and developing websites while continuously learning new technologies.</b></p>
-  <p>I focus on providing modern, responsive (mobile-first) designs. I also have knowledge in IoT (Internet of Things), Digital Marketing, Servers, and Data Analysis.</p>  
+  <p>💡<b> 2 years of experience designing and developing websites while continuously learning new technologies.</b></p>
+  <p>📊 I focus on providing modern, responsive (mobile-first) designs. I also have knowledge in IoT (Internet of Things), Digital Marketing, Servers, and Data Analysis.</p>
+  <p>✨ I am open to hearing new job proposals and opportunities to collaborate on exciting projects. Let's connect!</p>  
 </div>
 
 ### 👨🏼 Social
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/valentino-gasipi-470100252/)
 [![Bento Badge](https://img.shields.io/badge/Bento-FF6666?logo=bento&logoColor=fff&style=for-the-badge)](https://bento.me/valen-gasipi)
+[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge)](https://www.behance.net/valentigasipi)
+
 
 ### ☕️ Languages
 
